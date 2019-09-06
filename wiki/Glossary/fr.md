@@ -1,6 +1,6 @@
-# Glossary
+# Glossaire
 
-Throughout the years, the osu! community has adopted its own set of slang that may be confusing for newcomers. This page is a compilation of such terms for reference. Additions and edits are always welcome.
+Les années passant, la communauté d'osu! a créée de nouveaux termes pouvant rendre confus les nouveaux joueurs. Cette page est une compliation de ces différents termes. Les ajouts et les modifications sont toujours les bievenues !
 
 ## A
 
@@ -14,13 +14,13 @@ A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Som
 
 ### AFK
 
-*Short for "away from keyboard".*
+*Raccourci de "away from keyboard".*
 
-A term used when an active user walks off to do something else while they are still signed in. osu! will mark users as "Idle" if they have been inactive for some time.
+C'est un terme utilisé pour qualifier quelqu'un qui est parti faire autre chose avec son jeu toujours allumé. Osu! va définir l'état de l'utilisateur sur "Idle" si il reste inactif durant un certain temps.
 
 ### Approach Circle
 
-In [osu!standard](/wiki/Game_Modes/osu!), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the centre of the spinner (for older skins). When the approach circle touches the outer border of the hit circle or slider you should click. For spinners (older skins), the approach circle will indicate the duration of that spinner.
+Dans [osu!standard](/wiki/Game_Modes/osu!), L'"approach circle" (Cercle d'approche en français) est le cercle mince à l'extérieur et entourant le cercle sur lequel il faut cliquer (le hitcircle), le départ d'un slider, ou encore le centre d'un spinner (pour les skins les plus vieux). Quand le cercle d'approche touche le périmètre du cercle sur lequel il faut cliquer ou le cercle de départ de slider, il faut cliquer. Pour les spinners (toujours pour les skins les plus vieux), le cercle d'approche indiquera la durée du spinner.
 
 ### Authentic
 
@@ -28,21 +28,21 @@ Authentic denotes a beatmap that emulates in every aspect of a specific stage fr
 
 ### Aspire
 
-A beatmapping [contest](/wiki/Contests) where the creators are encouraged to fully ignore the [Ranking Criteria](/wiki/Ranking_Criteria). The resulting beatmaps tend to be cosmetically appealing displays of absolute madness, but are often nearly impossible for average players to play.
+Un [contest](/wiki/Contests) de beatmapping (création de beatmaps) dans lequel les créateurs sont incités à ne pas survre les [Critères de ranking](/wiki/Ranking_Criteria). Les beatmaps produites par cet évènement sont souvent jouées pour le côté esthétique d'une beauté époustouflante, mais sont souvent très difficiles à terminer pour des joueurs avec un niveau moyen.
 
 ## B
 
 ### Bancho
 
-*Related: [BanchoBot](/wiki/BanchoBot)*
+*Relié: [BanchoBot](/wiki/BanchoBot)*
 
-The easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) server in the management of all online content in osu!. Signing in with an osu! account in-game will automatically attempt to connect to Bancho until done successfully.
+Le serveur codé par peppy. Bancho remplace le besoin d'un [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) tiers dans l'entière gestion des contenus en ligne d'osu!.Se connecter sur un compte osu! en jeu lancera des tentatives de connexion automatiques sur ce serveur jusqu'a ce que la connexion soit faite.
 
 ### Beat
 
-A term that applies to the timeline in editor mode. It is a period of time that songs can be divided into based off of their BPM. A correctly timed beatmap will have each beat correspond to the song's rhythm and a whole beat should fall between two white lines on the [timeline](/wiki/Beatmap_Editor/Timelines).
+Un terme s'appliquant pour les beatmappers (créateurs de beatmap). C'est une période de temps dans laquelle les musiques peuvent être divisées en prenant compte du BPM de celle-ci. Une beatmap bien "timée" (sur le BPM de la musique) aura chaque Beat correspondant au rythme de la musique et le beat devra s'arrêter durant une pause de la musique, représentée par des traits blancs sur la [timeline](/wiki/Beatmap_Editor/Timelines) de l'éditeur de beatmaps d'osu!.
 
-For more information about the timeline, see [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor).
+Pour plus d'informations sur la timeline, veuillez consulter [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor).
 
 ### Beat Spacing
 
