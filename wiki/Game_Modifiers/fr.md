@@ -76,33 +76,33 @@ outdated: true
 [FO]: /wiki/shared/mods/FO.png "Fade Out (FO) mod icon"
 [No Video]: /wiki/shared/mods/NV.png "No Video mod icon"
 
-# Game Modifiers
+# Modificateurs de gameplay
 
-![Mods screen of all four modes (Left-to-Right from Top-to-Bottom: osu!standard, osu!taiko, osu!catch, and osu!mania)][GM]
+![Les quatre écrans des modificateurs selon le mode de jeu (d'en haut à gauche à en bas à droite: osu!standard, osu!taiko, osu!catch, et osu!mania)][GM]
 
-Game modifiers (mods) are optional modifications to a beatmap's elements and settings that the player can enable at will. A mod effect can range from simple gameplay changes like changing the beatmap's settings to automation such as allowing osu! to do a perfect replay (Auto), on a condition of possible Score Multiplier changes to making the play unrankable. When multiple mods are enabled, the Score Multiplier is the product of the enabled mods' Score Multiplier. For example, when Hidden and Flashlight are applied at the same time, the Score Multiplier will be 1.19x (1.06 * 1.12 = 1.1872; 1.19 by rounding up to nearest hundredths).
+Les modificateurs de gameplay (mods) sont des modifications optionnelles sur les éléments d'une beatmap ainsi que sur différents autres paramètres que le joueur pourra activer s'il le souhaite. Un mod peut modifier le gameplay, en changeant différents paramètres de la beatmap, mais aussi peremttra à osu! de montrer une partie parfaite sur la beatmap sélectionnée (Auto), Ce qui va affecter le score de cette map, en le multipliant, ou en le disqualifiant de toute publication compétitive. Quand plusieurs mods sont activés en même temps, le multiplicateur de score est le produit des deux multiplicateurs des mods. Par exemple, quand Hidden et Flashlight sont activés en même temps, le multiplicateur de score sera de 1.19x (1.06 * 1.12 = 1.1872; 1.19 en arrondissant au centième près).
 
-Players can change the shortcut keys used to enable mods by clicking `Change keyboard bindings` under the Keyboard header inside the Options menu. The shortcut keys will only work while the mod selection screen is open.
+Les joueurs peuvent changer leurs touches de raccourci utilisées pour activer les mods en cliquant sur `Configurer les touches` dans le menu Options sur osu! dans la catégorie "clavier". Les toches de raccourci ne marcheront que si la page de sélection des mods est ouverte.
 
-The mod selection screen can be accessed by pressing `F1` in the song selection screen or by clicking the `Mods` button near the lower left corner of the screen.
+L'écran de sélection des mods peut être ouvert en appuyant sur `F1` dans le menu de sélection des beatmaps ou en cliquant sur le bouton `Mods` proche du coin en bas à gauche de l'écran.
 
-![Song Selection's Toolbox][Toolbox]
+![Options de l'écran de sélection des beatmaps][Toolbox]
 
-## Difficulty Reduction
+## Réduction de la difficulté
 
-These mods can make the game easier at the cost of decreasing the Score Multiplier.
+Ces mods rendront le jeu plus facile, mais vont faire baisser le multiplicateur de score.
 
 ### Easy
 
-![Easy (EZ) mod icon][EZ]
+![Icone du mod Easy (EZ)][EZ]
 
-> Score Multiplier: 0.50x
+> Multiplicateur de score: 0.50x
 
-> Shortcut key: `Q`
+> Touche de raccourci: `Q`
 
-Easy mod halves all difficulty settings of the selected beatmap.
+Le mod Easy (Facile) réduit de moitié tous les paramètres de difficulté de la beatmap sélectionnée.
 
-The Easy mod also grants the player two additional "lives"; if the [life bar][lifebar wikilink] is exhausted completely, the play will pause and refills the life bar slowly to about 80% with no sound in-between at a cost of one "life" of the play. The refill is signaled by the ready sound (`readys.wav`) instead of the typical fail sound (`failsound.wav`) for failing the beatmap with an empty life bar. The beatmap will resume once the refill is successful signaled by playing the go sound (`gos.wav`). The play will fail instead if there are no "lives" remain when the life bar has been exhausted completely again.
+le mod Easy donnera aussi au joueur trois "vies"; if the [life bar][lifebar wikilink] is exhausted completely, the play will pause and refills the life bar slowly to about 80% with no sound in-between at a cost of one "life" of the play. The refill is signaled by the ready sound (`readys.wav`) instead of the typical fail sound (`failsound.wav`) for failing the beatmap with an empty life bar. The beatmap will resume once the refill is successful signaled by playing the go sound (`gos.wav`). The play will fail instead if there are no "lives" remain when the life bar has been exhausted completely again.
 
 When watching a replay where an extra "life" is used, the health refill animation will be ignored and the replay will continue as if playing with [No Fail](#no-fail) mod on.
 
